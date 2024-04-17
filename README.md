@@ -40,9 +40,6 @@ pip install -r requirements.txt
 ## Contributing
 We welcome contributions from the community. To contribute, fork the repository, create a new branch for your contributions, and submit a pull request.
 
-## License
-This project is licensed under the MIT License - see the `LICENSE` file in this repository for details.
-
 ## Contact
 Your Name - YourEmail@example.com  
-Project Link: https://github.com/yourusername/sms-text-classification
+Project Link: [https://github.com/yourusername/sms-text-classification](https://github.com/souravhada/Neural-Network-SMS-Text-Classifier)

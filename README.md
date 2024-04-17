@@ -41,5 +41,5 @@ pip install -r requirements.txt
 We welcome contributions from the community. To contribute, fork the repository, create a new branch for your contributions, and submit a pull request.
 
 ## Contact
-Your Name - YourEmail@example.com  
+Your Name - souravhada123@gmail.com  
 Project Link: [https://github.com/yourusername/sms-text-classification](https://github.com/souravhada/Neural-Network-SMS-Text-Classifier)
